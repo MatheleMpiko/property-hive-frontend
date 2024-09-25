@@ -78,7 +78,7 @@ const EmailVerification = () => {
           Back
         </button>
 
-        <h2 className="text-3xl font-bold mb-4 mt-10">Email Verification</h2>
+        <h2 className="text-3xl font-bold mb-4 mt-10">User Verification</h2>
         <p className="text-gray-500 mb-6">Please enter your details below</p>
 
         {/* Email input */}
