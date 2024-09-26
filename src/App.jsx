@@ -21,6 +21,7 @@ function App() {
       {/* <MainLayout> */}
         <Routes>
           {/* <Route path="/" element={<Dashboard />} /> */}
+          
 
           {/* Authentication Routes */}
           <Route path="/" element={<SignIn />} />
@@ -33,6 +34,8 @@ function App() {
           <Route path="/company-signin" element={<CompanySignInForm />} />
           <Route path="/company-signup" element={<CompanySignUpForm />} />
         </Routes>
+
+        
       {/* </MainLayout> */}
     </Router>
 

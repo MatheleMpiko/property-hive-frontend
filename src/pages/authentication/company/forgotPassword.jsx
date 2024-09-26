@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import ForgotPassword from '../../../components/authenticationComponents/forgortPassword';
 
-const ForgotPassword1 = () => {
+const ForgotPassword2 = () => {
   return (
     <div>
       <ForgotPassword></ForgotPassword>
@@ -9,4 +9,4 @@ const ForgotPassword1 = () => {
   );
 };
 
-export default ForgotPassword1;
+export default ForgotPassword2;
